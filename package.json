@@ -20,6 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://burragedanielle.github.io/db-portfolio-2020/",
   "eslintConfig": {
     "extends": "react-app"
   },
