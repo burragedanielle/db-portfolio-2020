@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/db-portfolio-2020/static/css/main.36497136.chunk.css",
+    "main.js": "/db-portfolio-2020/static/js/main.0a956318.chunk.js",
+    "main.js.map": "/db-portfolio-2020/static/js/main.0a956318.chunk.js.map",
+    "runtime-main.js": "/db-portfolio-2020/static/js/runtime-main.00d54016.js",
+    "runtime-main.js.map": "/db-portfolio-2020/static/js/runtime-main.00d54016.js.map",
+    "static/js/2.54a33a8b.chunk.js": "/db-portfolio-2020/static/js/2.54a33a8b.chunk.js",
+    "static/js/2.54a33a8b.chunk.js.map": "/db-portfolio-2020/static/js/2.54a33a8b.chunk.js.map",
+    "index.html": "/db-portfolio-2020/index.html",
+    "precache-manifest.f49774cdeaadd1d02724cc550fddc0f9.js": "/db-portfolio-2020/precache-manifest.f49774cdeaadd1d02724cc550fddc0f9.js",
+    "service-worker.js": "/db-portfolio-2020/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/db-portfolio-2020/static/css/main.36497136.chunk.css.map",
+    "static/js/2.54a33a8b.chunk.js.LICENSE.txt": "/db-portfolio-2020/static/js/2.54a33a8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d54016.js",
+    "static/js/2.54a33a8b.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.0a956318.chunk.js"
+  ]
+}
