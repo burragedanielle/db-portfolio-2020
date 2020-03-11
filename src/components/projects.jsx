@@ -23,8 +23,11 @@ const Projects = () => {
                     <Link to="">
                       <h3>Allocat</h3>
                     </Link>
-                    <p>Whales and darkness moving</p>
-                    <p>Technologies Used: HTML, CSS, JavaScript</p>
+                    <p>A full stack MERN application that simplifies complex projects through task allocation. </p>
+                    <p><strong>My Role:</strong> Designed a responsive and dynamic UI using React, custom Bootstrap and JavaScript ES6. Seamlessly connected UI to server-side code and database, retrieving and rendering data. Completed with four teammates. </p>
+                    <p><strong>Languages Used:</strong> JavaScript, HTML, CSS</p>
+                    <p><strong>Frameworks Used:</strong> React, Express, Node.js, Bootstrap</p>
+                    <p><strong>Database:</strong> MySQL and Sequelize</p>
                     <div className="row d-flex justify-content-center">
                       <a href="https://github.com/xKingAlex/Allocat" target="_blank" className="button button-projects mr-2">
                           Code</a>
@@ -45,8 +48,11 @@ const Projects = () => {
                     <Link to="#">
                       <h3>Schedulez</h3>
                     </Link>
-                    <p>Whales and darkness moving</p>
-                    <p>Technologies Used: HTML, CSS, JavaScript</p>
+                    <p>A full stack employee management application that allows managers and employees to build dynamic and functional schedules around their workday. </p>
+                    <p><strong>My Role:</strong> Designed a responsive UI and connected to database, developing API routes. Completed with three teammates. </p>
+                    <p><strong>Technologies Used:</strong> HTML5, CSS, JavaScript</p> 
+                    <p><strong>Frameworks Used:</strong> jQuery, Materialize, Node.js, Express</p>
+                    <p><strong>Database:</strong> MySQL and Sequelize</p>
                     <div className="row d-flex justify-content-center">
                         <a href="https://github.com/md0808/schedulez" target="_blank" className="button button-projects mr-2">
                           Code</a>
@@ -57,7 +63,7 @@ const Projects = () => {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-4">
+              {/* <div className="col-lg-4">
                 <div className="featured-item">
                   <img
                     className="card-img rounded-0"
@@ -76,9 +82,9 @@ const Projects = () => {
                         <a href="https://burragedanielle.github.io/project_one/" target="_blank" className="button button-projects mr-2">
                         App</a>
                     </div>
-                  </div>
-                </div>
-              </div>
+                  </div> */}
+                {/* </div> */}
+              {/* </div> */}
             </div>
           </div>
         </div>
