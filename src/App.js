@@ -16,7 +16,7 @@ class App extends Component {
       <Router>
         <Switch>
           {/*All our Routes goes here!*/}
-          <Route exact path='/' component={MainPage} />
+          <Route path={process.env.PUBLIC_URL + '/'} component={MainPage} />
           <Route exact path='/Projects' component={ProjectsPage} />
           <Route exact path='/404' component={NotFound} />
           <Redirect to='/' />
