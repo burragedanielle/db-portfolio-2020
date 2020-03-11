@@ -25,7 +25,7 @@ const HeroBanner = () => {
                 {/* <a href="/#aboutMe" class="button button-shadow mt-2 mt-lg-4">
                 Learn More About Me
                 </a> */}
-            </div> */}
+            {/* </div> */}
           </div>
         </div>
       </div>
