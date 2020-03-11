@@ -34,9 +34,9 @@ const About = () => {
               <p>
               I have a background in digital marketing, textile sourcing, and design. I understand the importance of effective design, strategic collaboration, and delivering a phenomenal user-experience before launch. 
               </p>
-              <Link to="" class="button button-shadow mt-2 mt-lg-4">
+              {/* <Link to="" class="button button-shadow mt-2 mt-lg-4">
                 Learn More
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
