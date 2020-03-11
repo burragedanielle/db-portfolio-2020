@@ -21,11 +21,11 @@ const HeroBanner = () => {
                 <i className="far fa-envelope" data-toggle="tooltip" data-placement="bottom" title="burragedanielle@gmail.com"></i>
                 <i className="fab fa-linkedin-in" data-toggle="tooltip" data-placement="bottom" title="in/danielleburrage"></i>
             </div>
-            <div className="row justify-content-left">
-                <a href="/#aboutMe" class="button button-shadow mt-2 mt-lg-4">
+            {/* <div className="row justify-content-left">
+                {/* <a href="/#aboutMe" class="button button-shadow mt-2 mt-lg-4">
                 Learn More About Me
-                </a>
-            </div>
+                </a> */}
+            </div> */}
           </div>
         </div>
       </div>
