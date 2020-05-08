@@ -1,26 +1,28 @@
-import React, { Component } from "react";
-import { Link } from "react-router-dom";
+import React from "react";
 
-class NavBar extends Component {
-  render() {
-    return [
-      <li key="A" className="nav-item active">
-        <Link className="nav-link" to="/">
-          Home
-        </Link>
-      </li>,
-      <li key="B" className="nav-item">
-        <Link className="nav-link" to="/projects">
-          My Work
-        </Link>
-      </li>
-      //   <li key="C" className="nav-item">
-      //     <Link className="nav-link" to="">
-      //       Contact
-      //     </Link>
-      //   </li>
-    ];
-  }
-}
+const Navigation = () => {
+  return (
+    <nav class="navbar justify-content-between">
+      <a class="navbar-brand d-flex">Danielle B.</a>
+      <ul className="navbar-nav d-flex">
+        <li className="nav-item">
+          <a className="nav-link" href="#projects">
+            My Projects <span className="sr-only">(current)</span>
+          </a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="#about">
+            About Me
+          </a>
+        </li>
+        <li className="nav-item">
+          <a id="resume-btn" className="nav-link btn" href="#">
+            See Resume
+          </a>
+        </li>
+      </ul>
+    </nav>
+  );
+};
 
-export default NavBar;
+export default Navigation;
