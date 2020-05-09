@@ -1,4 +1,5 @@
 import React from "react";
+import resume_db_webdev from "../img/resume_db_webdev.pdf";
 
 const Navigation = () => {
   return (
@@ -16,7 +17,7 @@ const Navigation = () => {
           </a>
         </li>
         <li className="nav-item">
-          <a id="resume-btn" className="nav-link btn" href="#">
+          <a id="resume-btn" className="nav-link btn" href={resume_db_webdev}>
             See Resume
           </a>
         </li>
