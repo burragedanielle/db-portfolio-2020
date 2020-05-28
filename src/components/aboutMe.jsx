@@ -7,7 +7,7 @@ const About = () => {
       <section id="about" className="mb-lg-100">
         <div className="container">
           <div className="row">
-            <div className="col-md-12 col-xl-12 mb-5 mb-md-0 pb-5 pb-md-0">
+            <div className="col-sm-12 col-md-12 col-xl-12 mb-5 mb-md-0 pb-5 pb-md-0">
               <div className="img-styleBox">
                 <div className="styleBox-border">
                   <img
@@ -25,7 +25,7 @@ const About = () => {
             </div>
             <div class="col-md-12 col-xl-11">
               <div class="section-intro mb-lg-4">
-                <h4 class="intro-title">About Me</h4>
+                <h4 className="intro-title">About Me</h4>
                 <h2>The skills I've learned so far</h2>
               </div>
               <p>
@@ -44,6 +44,13 @@ const About = () => {
                 strategic collaboration, and delivering a phenomenal
                 user-experience before launch.
               </p>
+            </div>
+            <div className="tech-viz row">
+              <i class="fab fa-html5"></i>
+              <i class="fab fa-js-square"></i>
+              <i class="fab fa-css3-alt"></i>
+              <i class="fab fa-react"></i>
+              <i class="fab fa-node-js"></i>
             </div>
           </div>
         </div>

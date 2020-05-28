@@ -1,8 +1,8 @@
 /*=================== custom button rule start ====================*/
 .button {
   display: inline-block;
-  background-color: $primary-color;
-  border: 1px solid #7a5b99;
+  background-color: $lavender;
+  border: 1px solid $lavender;
   color: $white;
   font-size: 14px;
   font-weight: 600;
@@ -17,8 +17,8 @@
 
   &:hover {
     background-color: white;
-    border: 1px solid #7a5b99;
-    color: #7a5b99;
+    border: 1px solid $lavender;
+    color: $lavender;
   }
 }
 

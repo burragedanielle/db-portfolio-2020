@@ -1,6 +1,9 @@
 // header style starts
+html {
+  scroll-behavior: smooth;
+}
 
-$text-color: #263057;
+$lavender: #b288c0;
 
 .navbar-nav {
   flex-direction: row;
@@ -8,13 +11,16 @@ $text-color: #263057;
 }
 
 #resume-btn {
-  background-color: #7a5b99;
+  background-color: $lavender;
   color: white;
+  border: 1px solid $lavender;
   font-weight: 300;
   border-radius: 300px;
   padding: 0.5em 1em;
   &:hover {
-    background-color: $text-color;
+    background-color: transparent;
+    border: 1px solid $lavender;
+    color: $text-color;
   }
 }
 
@@ -25,13 +31,13 @@ $text-color: #263057;
 
 .navbar-brand {
   font-weight: 600;
-  color: $text-color;
+  color: $lavender;
 }
 
 .nav-link {
   margin-left: 2em;
   :hover {
-    color: #263057;
+    color: $lavender;
   }
 }
 

@@ -5,10 +5,13 @@ $text-font: "Poppins", sans-serif;
 
 /* color variables
 	============================================================================================ */
-$title-color: #263057;
-$text-color: #263057;
-$primary-color: #7a5b99;
-$link-color: #777777;
+$title-color: #191919;
+$text-color: #191919;
+$pink-color: #cf9591;
+$taupe-color: #8a817c;
+$primary-color: #b288c0;
+$link-color: #b288c0;
+$baby-blue: #77baee;
 
 $white: #fff;
 // $black: #222222;
@@ -16,4 +19,5 @@ $white: #fff;
 
 /* google fonts
 	============================================================================================ */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prata&display=swap");

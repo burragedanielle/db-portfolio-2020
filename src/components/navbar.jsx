@@ -4,7 +4,7 @@ import resume_db_webdev from "../img/resume_db_webdev.pdf";
 const Navigation = () => {
   return (
     <nav class="navbar justify-content-between">
-      <a class="navbar-brand d-flex">Danielle B.</a>
+      <span class="navbar-brand">Danielle Burrage</span>
       <ul className="navbar-nav d-flex">
         <li className="nav-item">
           <a className="nav-link" href="#projects">
@@ -13,7 +13,7 @@ const Navigation = () => {
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#about">
-            About Me
+            My Skills
           </a>
         </li>
         <li className="nav-item">

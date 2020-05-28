@@ -2,28 +2,27 @@
 	============================================================================================ */
 
 body {
-	color: $text-color;
+  color: $text-color;
   font-family: $text-font;
-  font-size: 15px;
-	font-weight: 400;
+  font-size: 1.1em;
+  font-weight: 400;
   line-height: 1.8;
 }
 
-
-ul{
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-a:hover{
+a:hover {
   text-decoration: none;
 }
 
-button{
+button {
   cursor: pointer;
 
-  &:focus{
+  &:focus {
     outline: 0 !important;
     box-shadow: none !important;
   }
@@ -35,9 +34,9 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: $title-font;
-	color: $title-color;
-	line-height: 1.2;
+  font-family: $title-font;
+  color: $title-color;
+  line-height: 1.2;
 }
 
 h1,
@@ -49,47 +48,46 @@ h2,
 .h2 {
   font-weight: 600;
   font-size: 26px;
-  
-  @media(min-width: 1200px){
+
+  @media (min-width: 1200px) {
     font-size: 50px;
   }
 }
-h3,.h3{
+h3,
+.h3 {
   font-size: 24px;
   font-weight: 600;
   // font-weight: 500;
 
-  @media(max-width: 1000px){
+  @media (max-width: 1000px) {
     font-size: 19px;
   }
 }
-h4,.h4{
+h4,
+.h4 {
   font-size: 24px;
   font-weight: 600;
 
-  @media(max-width: 450px){
+  @media (max-width: 450px) {
     font-size: 19px;
   }
 }
 
-
-
-.primary-text{
+.primary-text {
   color: $primary-color;
 }
 
-
-.mb-75px{
+.mb-75px {
   margin-bottom: 35px;
 
-  @media(min-width: 992px){
+  @media (min-width: 992px) {
     margin-bottom: 75px;
   }
 }
 
-.bg-lightGray{
-  background: #F7E3F3;
-  background-image: url('../../img/Rectangle.png');
+.bg-lightGray {
+  background: #ffffff;
+  // background-image: url("../../img/Rectangle.png");
   background-position: center;
   background-size: cover;
 }
@@ -106,29 +104,26 @@ h4,.h4{
 //   }
 // }
 
-
-
 // .mh-tour{
 //   max-height: 630px;
 // }
 
-
-.section-margin{
+.section-margin {
   margin: 65px 0;
 
-  @media(min-width: 992px){
+  @media (min-width: 992px) {
     margin: 130px 0;
   }
 }
 
-@media(min-width: 1200px){
-  .pb-xl-70{
+@media (min-width: 1200px) {
+  .pb-xl-70 {
     padding-bottom: 70px;
   }
 }
 
-@media(min-width: 992px){
-  .mb-lg-100{
+@media (min-width: 992px) {
+  .mb-lg-100 {
     margin-bottom: 100px;
   }
 }
@@ -141,10 +136,10 @@ h4,.h4{
 //   }
 // }
 
-.section-padding{
+.section-padding {
   padding: 65px 0;
 
-  @media(min-width: 992px){
+  @media (min-width: 992px) {
     padding: 130px 0;
   }
 }
@@ -163,4 +158,3 @@ h4,.h4{
 
 /* global style end
 	============================================================================================ */
-
