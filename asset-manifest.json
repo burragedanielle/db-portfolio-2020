@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/db-portfolio-2020/static/css/main.523cbff8.chunk.css",
-    "main.js": "/db-portfolio-2020/static/js/main.46aff464.chunk.js",
-    "main.js.map": "/db-portfolio-2020/static/js/main.46aff464.chunk.js.map",
+    "main.css": "/db-portfolio-2020/static/css/main.95ba616b.chunk.css",
+    "main.js": "/db-portfolio-2020/static/js/main.ef3bcfb0.chunk.js",
+    "main.js.map": "/db-portfolio-2020/static/js/main.ef3bcfb0.chunk.js.map",
     "runtime-main.js": "/db-portfolio-2020/static/js/runtime-main.00d54016.js",
     "runtime-main.js.map": "/db-portfolio-2020/static/js/runtime-main.00d54016.js.map",
-    "static/js/2.52bf84d2.chunk.js": "/db-portfolio-2020/static/js/2.52bf84d2.chunk.js",
-    "static/js/2.52bf84d2.chunk.js.map": "/db-portfolio-2020/static/js/2.52bf84d2.chunk.js.map",
+    "static/js/2.d8721461.chunk.js": "/db-portfolio-2020/static/js/2.d8721461.chunk.js",
+    "static/js/2.d8721461.chunk.js.map": "/db-portfolio-2020/static/js/2.d8721461.chunk.js.map",
     "index.html": "/db-portfolio-2020/index.html",
-    "precache-manifest.7d781c8feb3a000be176c6d6c0de136a.js": "/db-portfolio-2020/precache-manifest.7d781c8feb3a000be176c6d6c0de136a.js",
+    "precache-manifest.40cc501dbc53f0a79030613f0e1848bf.js": "/db-portfolio-2020/precache-manifest.40cc501dbc53f0a79030613f0e1848bf.js",
     "service-worker.js": "/db-portfolio-2020/service-worker.js",
-    "static/css/main.523cbff8.chunk.css.map": "/db-portfolio-2020/static/css/main.523cbff8.chunk.css.map",
-    "static/js/2.52bf84d2.chunk.js.LICENSE.txt": "/db-portfolio-2020/static/js/2.52bf84d2.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/db-portfolio-2020/static/media/Rectangle.f11990d8.png",
-    "static/media/resume_db_webdev.pdf": "/db-portfolio-2020/static/media/resume_db_webdev.3c6b2d90.pdf"
+    "static/css/main.95ba616b.chunk.css.map": "/db-portfolio-2020/static/css/main.95ba616b.chunk.css.map",
+    "static/js/2.d8721461.chunk.js.LICENSE.txt": "/db-portfolio-2020/static/js/2.d8721461.chunk.js.LICENSE.txt",
+    "static/media/AllocatScreenshot.png": "/db-portfolio-2020/static/media/AllocatScreenshot.d308b8d2.png",
+    "static/media/SchedulezScreenshot.png": "/db-portfolio-2020/static/media/SchedulezScreenshot.97ef93e7.png",
+    "static/media/ecommpractice.png": "/db-portfolio-2020/static/media/ecommpractice.4f69ad24.png",
+    "static/media/resume_db_webdev.pdf": "/db-portfolio-2020/static/media/resume_db_webdev.3c6b2d90.pdf",
+    "static/media/styles.scss": "/db-portfolio-2020/static/media/watercolor background.27e8f19d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.00d54016.js",
-    "static/js/2.52bf84d2.chunk.js",
-    "static/css/main.523cbff8.chunk.css",
-    "static/js/main.46aff464.chunk.js"
+    "static/js/2.d8721461.chunk.js",
+    "static/css/main.95ba616b.chunk.css",
+    "static/js/main.ef3bcfb0.chunk.js"
   ]
 }
